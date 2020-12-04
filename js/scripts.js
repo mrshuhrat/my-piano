@@ -18,3 +18,4 @@ keys.forEach(function (key) {
 })
 
 window.addEventListener('keydown', playSound);
+
